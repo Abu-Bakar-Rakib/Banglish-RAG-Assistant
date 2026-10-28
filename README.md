@@ -1,3 +1,5 @@
+<img width="1258" height="685" alt="image" src="https://github.com/user-attachments/assets/6b96b01b-9d02-440f-ab56-e75dab7917c2" />
+
 # 🇧🇩 Banglish RAG Assistant
 
 A free, self-hosted **ChatGPT-style assistant** that understands **বাংলা (Bangla), English and Banglish** (Bangla typed in English letters). Chat with your **PDFs, images and text**, or talk to it with your **voice**. It runs entirely on a Kaggle GPU using open models, with no paid APIs.
