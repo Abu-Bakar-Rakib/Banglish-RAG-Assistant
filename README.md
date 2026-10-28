@@ -1,6 +1,4 @@
-<img width="1258" height="685" alt="image" src="https://github.com/user-attachments/assets/6b96b01b-9d02-440f-ab56-e75dab7917c2" />
-
-# 🇧🇩 Banglish RAG Assistant
+# Banglish RAG Assistant
 
 A free, self-hosted **ChatGPT-style assistant** that understands **বাংলা (Bangla), English and Banglish** (Bangla typed in English letters). Chat with your **PDFs, images and text**, or talk to it with your **voice**. It runs entirely on a Kaggle GPU using open models, with no paid APIs.
 
@@ -13,6 +11,7 @@ A free, self-hosted **ChatGPT-style assistant** that understands **বাংল�
 - 🔎 **Smart retrieval**: LLM query rewriting for Banglish and cross-language search, plus relevance filtering
 - 🎛️ **Three modes**: Auto (documents + general knowledge) · My documents only · General knowledge only
 - 🌐 **Shareable public link** via Gradio (optional password)
+<img width="1258" height="685" alt="image" src="https://github.com/user-attachments/assets/2f84feae-eb40-4d48-aaa9-7480ca6729b1" />
 
 ## 🧱 Tech Stack
 
